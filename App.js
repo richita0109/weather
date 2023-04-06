@@ -1,4 +1,4 @@
-const DefaultPlace = "India";
+const DefaultPlace = "New Delhi";
 const CheckCity = /^[A-Za-z]+$/;
 
 let WeatherContainer = document.querySelector(".Weather_Container")
